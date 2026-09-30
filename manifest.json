@@ -1,0 +1,17 @@
+{
+  "name": "Agro Farm Calc",
+  "short_name": "Agro Farm Calc",
+  "description": "Mobile agricultural decision-support application for farm planning, fertilizer, water, weather and farm records.",
+  "id": "./index.html",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f1f7f2",
+  "theme_color": "#176b35",
+  "lang": "en",
+  "icons": [
+    {"src":"green.png","sizes":"192x192","type":"image/png"},
+    {"src":"green.png","sizes":"512x512","type":"image/png"}
+  ]
+}
